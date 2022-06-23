@@ -1,11 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text= Priya Pahwa &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text= Priya Pahwa &fontSize=30&fontColor=bf91f3&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+There;I+am+Priya+Pahwa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Hey,+There;I+am+Priya+Pahwa)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=dff9fb&bg_color=0d1117" alt="Priya's GitHub Stats"/> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapahwa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&hide_border=true&theme=tokyonight" alt="priyapahwa" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyapahwa&hide_border=true&theme=tokyonight" alt="priyapahwa" /> 
+</p>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=priyapahwa&theme=gotham&hide_border=true&area=true)
+</div> 
+
+<div align="center">
+  <img src="https://github.com/priyapahwa/priyapahwa/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=priyapahwa&theme=gotham&hide_border=true&area=true)
-</div> 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/priyapahwa/count.svg?"  />
+</div>
+
