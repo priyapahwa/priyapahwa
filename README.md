@@ -12,7 +12,7 @@
 
 <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&hide_border=true&theme=tokyonight" alt="priyapahwa"/>
-  <img width="48%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapahwa&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="priyapahwa" />
+  <img width="48%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapahwa&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="priyapahwa" />
 </p>
 
 <div align="center">
