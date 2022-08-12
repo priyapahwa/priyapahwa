@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text= Priya Pahwa &fontSize=30&fontColor=bf91f3&animation=twinkling&fontAlignY=35"/> 
+<!--- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text= Priya Pahwa &fontSize=30&fontColor=bf91f3&animation=twinkling&fontAlignY=35"/> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Hey,+There!;I+am+Priya+Pahwa;Electronics+and+Communication+Engineering+undergrad+at+NIT+Hamirpur)](https://git.io/typing-svg)
 
