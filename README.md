@@ -1,19 +1,36 @@
-<!--- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text= Priya Pahwa &fontSize=30&fontColor=bf91f3&animation=twinkling&fontAlignY=35"/> -->
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Hey,+There!;I+am+Priya+Pahwa;Electronics+and+Communication+Engineering+undergrad+at+NIT+Hamirpur)](https://git.io/typing-svg)
+#  Hey, there 👋 
 
-<p align="center">
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyapahwa&hide_border=true&theme=tokyonight" alt="priyapahwa"/>
-  <img width="64%" src="https://github.com/priyapahwa/priyapahwa/raw/output/github-contribution-grid-snake.svg" alt="priyapahwa" />
+#  I am Priya Pahwa 👩‍💻
+
+<p>
+  
+  <a href="https://github.com/priyapahwa">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/github.png"/>
+  </a>  
+  <a href= "https://www.linkedin.com/in/priya-pahwa/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://twitter.com/PriyaPahwa19">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+  </a>
+  <a href="mailto:pahwa.priya19@gmail.com">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/mail.png"/>
+  </a>
+  <a href="https://medium.com/@priyapahwa">
+    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
+  </a>
+  
 </p>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=priyapahwa&theme=gotham&hide_border=true&area=true)
-</div> 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Electronics+and+Communication+Engineering+Junior;Undergrad+at+NIT+Hamirpur;GitHub+Campus+Expert;Django+Developer;)](https://git.io/typing-svg) -->
 
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&hide_border=true&theme=tokyonight" alt="priyapahwa"/>
-  <img width="48%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapahwa&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="priyapahwa" />
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&theme=bear&hide_border=true" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=priyapahwa&theme=bear&hide_border=true" width = 500>
 </p>
+
 
 <p>
 
