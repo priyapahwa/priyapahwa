@@ -27,8 +27,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Electronics+and+Communication+Engineering+Junior;Undergrad+at+NIT+Hamirpur;GitHub+Campus+Expert;Django+Developer;)](https://git.io/typing-svg) -->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&theme=bear&hide_border=true" width = 500>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=priyapahwa&theme=bear&hide_border=true" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=priyapahwa&show_icons=true&theme=bear&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=priyapahwa&theme=bear&hide_border=true" width = 400>
 </p>
 
 
