@@ -31,7 +31,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=priyapahwa&theme=bear&hide_border=true" width = 400>
 </p>
 
-
 <p>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -59,6 +58,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</p>
+
+<p align = "center">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0" alt="Recent article #0" width = 400></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1" alt="Recent article #1" width = 400></a>
 </p>
 
 <hr>
