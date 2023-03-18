@@ -7,22 +7,28 @@
 <p>
   
   <a href="https://github.com/priyapahwa">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/github.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/github.png"/>
   </a>  
   <a href= "https://www.linkedin.com/in/priya-pahwa/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/PriyaPahwa19">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/twitter.png"/>
   </a>
   <a href="mailto:pahwa.priya19@gmail.com">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/mail.png"/>
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/mail.png"/>
   </a>
   <a href="https://medium.com/@priyapahwa">
-    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/medium-new.png"/>
   </a>
   
 </p>
+
+<p>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0" alt="Recent article #0"></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1" alt="Recent article #1"></a>
+</p>
+
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Electronics+and+Communication+Engineering+Junior;Undergrad+at+NIT+Hamirpur;GitHub+Campus+Expert;Django+Developer;)](https://git.io/typing-svg) -->
 
@@ -58,11 +64,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-</p>
-
-<p align = "center">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0" alt="Recent article #0" width = 400></a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1" alt="Recent article #1" width = 400></a>
 </p>
 
 <hr>
