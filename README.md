@@ -24,11 +24,6 @@
   
 </p>
 
-<p>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/0" alt="Recent article #0"></a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@priyapahwa/1" alt="Recent article #1"></a>
-</p>
-
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=25&center=true&vCenter=true&width=1000&lines=Electronics+and+Communication+Engineering+Junior;Undergrad+at+NIT+Hamirpur;GitHub+Campus+Expert;Django+Developer;)](https://git.io/typing-svg) -->
 
