@@ -35,7 +35,7 @@ You can find more details about my community work and experience at [Volunteerin
 ---
 
 ### Work Experience 💼
-I am a Software Engineer who thrives at the intersection of Backend Engineering and DevOps, building scalable, secure, and observable systems. My work spans from architecting Django-based applications to automating CI/CD pipelines while ensuring system reliability throughout the development and deployment process.
+I am a Software Engineer focused on Backend Engineering and DevOps. My work spans from architecting Django-based applications to automating CI/CD pipelines while ensuring system reliability throughout the development and deployment process.
 
 | Role | Organization | Duration |
 |------|--------------|----------|
