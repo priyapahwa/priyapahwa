@@ -1,0 +1,21 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "17 18 * * 3" # 11:47 PM Wednesday IST
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull latest posts from RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://priyapahwa.com/feed.xml"
+          max_post_count: 3
+          readme_path: README.md
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

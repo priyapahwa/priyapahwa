@@ -44,9 +44,7 @@ To follow trends per se, I’ve been exploring the AI world, not as a novelty, b
 I keep a blog at [priyapahwa.com](https://priyapahwa.com) — developer logs, opsy notes, conference talks, behind-the-scenes of running open source communities, and some random thoughts. Read my most recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Django Day India Talk] Organizing Djangonaut Space: A Toolkit for Inclusive Events](https://priyapahwa.com/posts/organizing-djangonaut-space-a-toolkit-for-inclusive-events/)
 - [2026 DSF Board of Directors](https://priyapahwa.com/posts/2026-dsf-board-of-directors/)
-- [Deploying to Private AWS EC2 Without SSH or Bastion Hosts](https://priyapahwa.com/posts/deploying-to-private-aws-ec2-without-ssh-or-bastion-host/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
