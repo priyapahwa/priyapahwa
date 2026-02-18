@@ -1,64 +1,60 @@
-<!-- README.md -->
-
 # Hey, I’m [Priya Pahwa](https://priyapahwa.com/) 👋
-DSF Director · Software Engineer · Backend & DevOps · Djangonaut Space
+**DSF Director · Software Engineer · Backend & DevOps · Djangonaut Space**
 
 ---
 
-### 👩🏻‍💻 `whoami`
+I am a software engineer building backend systems and the infrastructure around them at a fintech startup.
 
-```bash
-$ whoami
-> Priya Pahwa · She/Her 
-> Software Engineer | Backend · DevOps · Infra · Agentic AI
-> Based in India, Asia (GMT +5:30)
-```
+Most of my work lives in Django and Python, with AWS and CircleCI handling the operational choreography. I care about writing code that is explicit about its assumptions, cool yet sensible automations, clear trust boundaries, services that are stable by design, releases that move smoothly, infra alerts that stay quietly managed, and deployments that don’t require theatrics. 
 
-I’m Priya — a software engineer navigating the intersection of code, community, and collaboration.
+_Although, every now and then, a slightly dramatic rollout keeps things humbling. Perhaps, a learning opportunity in hindsight._
 
----
+To follow trends per se, I’ve been exploring the AI world, not as a novelty, but as a systems problem. I’m interested in what genuinely improves developer productivity, what meaningfully augments thinking, and what simply adds noise.
 
-### Community Spaces ✨ 
-Community spaces have been foundational to my growth as an engineer and as a person. I try to give back by contributing through open-source programs, developer education, and other operational work that sustains these local and global communities in diverse and inclusive way.
-
-| Role | Duration |
-|------|----------|
-| [Board of Directors, Django Software Foundation (DSF)](https://www.djangoproject.com/weblog/2025/nov/28/2026-dsf-board-election-results/)  | Dec 2025 - Present |
-| [Member, DSF Code of Conduct Working Group](https://www.djangoproject.com/foundation/teams/#code-of-conduct-team) | Sep 2025 - Present |
-| [Co-Chair, DSF Fundraising Working Group](https://www.djangoproject.com/foundation/teams/#fundraising-team) | Aug 2024 - Present |
-| [Organizer (Session 3, 4, 5), Djangonaut Space](https://djangonaut.space/)  | Aug 2024 - Dec 2025 |
-| [GitHub Campus Expert, GitHub Education](https://githubcampus.expert/priyapahwa/) | Apr 2022 - Nov 2025 |
-| [Organizer, GitHub Field Day India 2024](https://x.com/GHFieldDayIndia) | Feb 2024 - Sep 2024 |
-
-You can find more details about my community work and experience at [Volunteering](https://priyapahwa.com/categories/volunteering) and [Talks and Media](https://priyapahwa.com/categories/talks-and-media/).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
 ---
 
-### Work Experience 💼
-I am a Software Engineer focused on Backend Engineering and DevOps. My work spans from architecting Django-based applications to automating CI/CD pipelines while ensuring system reliability throughout the development and deployment process.
+### My Community Involvements
 
-| Role | Organization | Duration |
-|------|--------------|----------|
-| Software Engineer (Backend and DevOps) | [BeyondIRR](https://www.linkedin.com/company/beyondirr/) (FinTech Startup) | Dec 2023 - Present |
-| Software Engineer Intern  | [GitHub Octernships](https://github.blog/news-insights/company-news/unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/) (In Partnership with [Dive](https://www.letsdive.io/)) | Aug 2023 - Oct 2023 |
-
-<br />
-
-Read about my Devlogue (Developer/Ops Logs) at [Software Development](https://priyapahwa.com/categories/software-development/).
-
-I occasionally write about random thoughts and tech meeting facilitations at [Engineering Management](https://priyapahwa.com/categories/engineering-management/).
+- [Board of Directors, Django Software Foundation](https://www.djangoproject.com/weblog/2025/dec/18/introducing-the-2026-dsf-board/) (secretary officer role)
+- [Advisor, Djangonaut Space](https://djangonaut.space/comms/2026/01/19/2026-new-admins-and-advisors/) (past organizer for sessions 3, 4, 5)
+- [DSF Working Groups](https://www.djangoproject.com/foundation/teams/) (fundraising co-chair, code of conduct member, socials board liaison)
+- Previous [GitHub Campus Expert](https://githubcampus.expert/priyapahwa/) (active between 2022-2025)
 
 ---
 
-> Currently, tinkering with Golang and agentic AI systems for fun and learning.
+### My Latest Published Writings
+
+I keep a blog at [priyapahwa.com](https://priyapahwa.com) — developer logs, opsy notes, conference talks, behind-the-scenes of running open source communities, and some random thoughts. Read my most recent writings:
+
+<!-- BLOG-POST-LIST:START -->
+- [[Django Day India Talk] Organizing Djangonaut Space: A Toolkit for Inclusive Events](https://priyapahwa.com/posts/organizing-djangonaut-space-a-toolkit-for-inclusive-events/)
+- [2026 DSF Board of Directors](https://priyapahwa.com/posts/2026-dsf-board-of-directors/)
+- [Deploying to Private AWS EC2 Without SSH or Bastion Hosts](https://priyapahwa.com/posts/deploying-to-private-aws-ec2-without-ssh-or-bastion-host/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-Happy to connect!
+Curious about similar things? Reach out to me at
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/priyapahwa19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyapahwa/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pahwa.priya19@gmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@priyapahwa)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logoColor=white)](https://bsky.app/profile/priyapahwa.bsky.social)
-
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@priyapahwa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pahwa.priya19@gmail.com)
